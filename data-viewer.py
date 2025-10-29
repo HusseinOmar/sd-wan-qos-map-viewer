@@ -121,8 +121,8 @@ def searchByDeviceTemplateName(data):
             finalresult['affected-devices'].append(item['devices'])
             finalresult['used-in-localized-policy'].append(
                 item['policy']['name'])
-            finalresult['qos-maps-used'].append(
-                [d for d in item['policy']['qosmaps']])
+            for d in item['policy']['qosmaps']:
+              finalresult['qos-maps-used'].append(d)
     if finalresult['used-in-localized-policy'] == []:
         print('===========================================')
         print(f'xxx> Device Template {devtemplateName} is not found !!! ')
