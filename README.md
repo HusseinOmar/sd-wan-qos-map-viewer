@@ -42,7 +42,7 @@ Follow prompts to do multiple searches
 
 # Video Demo
 
-[![Watch the Demo Video](https://img.youtube.com/vi/_pMjse6xL09Y/0.jpg)](https://www.youtube.com/watch?v=pMjse6xL09Y)
+[![Watch the Demo Video](https://img.youtube.com/vi/pMjse6xL09Y/0.jpg)](https://www.youtube.com/watch?v=pMjse6xL09Y)
 
 # License
 
