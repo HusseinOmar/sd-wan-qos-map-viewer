@@ -40,6 +40,10 @@ python data-viewer.py
 
 Follow prompts to do multiple searches
 
+# Video Demo
+
+[![Watch the Demo Video](https://img.youtube.com/vi/_pMjse6xL09Y/0.jpg)](https://www.youtube.com/watch?v=pMjse6xL09Y)
+
 # License
 
 [CISCO SAMPLE CODE LICENSE - Link](https://developer.cisco.com/docs/licenses)
