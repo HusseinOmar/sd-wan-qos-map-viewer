@@ -1,6 +1,6 @@
 # Cisco SD-WAN Qos Maps Viewer
 
-QoS Maps views allows you to search by Qos map name and return the devices affected by the Qos map. You can also search by Localized Policy name and return the Qos maps used in the policy.
+QoS Maps viewer allows you to search by Qos map name and return the devices affected by the Qos map. You can also search by Localized Policy name and return the Qos maps used in the policy.
 
 # Requirements
 
