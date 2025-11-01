@@ -1,5 +1,5 @@
 [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/HusseinOmar/sd-wan-qos-map-viewer)
-[![Run in Cisco Cloud IDE](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-runable-icon.svg)](https://developer.cisco.com/codeexchange/devenv/HusseinOmar/sd-wan-qos-map-viewer/)
+
 # Cisco SD-WAN Qos Maps Viewer
 
 QoS Maps viewer allows you to search by Qos map name and return the devices affected by the Qos map. You can also search by Localized Policy name and return the Qos maps used in the policy.
